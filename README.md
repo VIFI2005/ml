@@ -136,4 +136,4 @@ This project is provided for educational purposes.
 
 ## Author
 
-Vicky
+Vighnesh Manoj Firke
